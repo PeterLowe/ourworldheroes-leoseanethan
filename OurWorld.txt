@@ -1,6 +1,10 @@
 Compiled by Peter Lowe [PL]
 
+<<<<<<< HEAD
 Compiled by Sean Kroczek [SK] 
+=======
+Compiled by Sean Kroczek [SK]
+>>>>>>> Sean
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
