@@ -1,35 +1,68 @@
-Compiled by Peter Lowe [PL]  
+Compiled by Peter Lowe [PL]
 Compiled by Leo Bolaks [LB]
-
+Compiled by Sean Kroczek [SK]
 Compiled by Ethan Hislop [EH]
 
 ++++++++++++++++++++++  Americas  ++++++++++++++++++++
 ---- United States of America [pl]
 The world's 4th Longest River System is in the USA.
-
+---- Argentina [lb]
+Argentina is one of the top countries in animal diversity
+---- Peru [SK]
+Is home to the Machu Pichu stone city.
 ---- Mexico [eh]
 Mexico is the third largest country in Latin America, after Brazil and Argentina.
+
 ++++++++++++++++++++++   Europe   ++++++++++++++++++++
 ---- France [pl]
 The French consume around 25,000 tons of snails each year.
-
 ---- Italy [eh]
 Italy is the most visited countries in Europe.
-+++++++++++++++++++++     Africa  ++++++++++++++++++++
----- Egypt [pl]
-Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
+---- France [pl]
+The French consume around 25,000 tons of snails each year.
 
+
+++++++++++++++++++++++   Europe   ++++++++++++++++++++
+---- Latvia [lb]
+Latvia has the widest waterfall in Europe
+---- Spain [SK]
+Basillica Sagrda de Familia, a church that has been in construction for over 100 years.
+
++++++++++++++++++++++     Africa  ++++++++++++++++++++
+----- Egypt [pl]
+Ancient Egyptian bakers sometimes kneaded bread dough with their feet.
 ---- Morocco [eh]
 Morocco was the first country to recognize the United States as a country.
+
 ++++++++++++++++++++++    Asia    ++++++++++++++++++++
 ------ China [pl]
 The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
-
 ---- Vietnam [eh]
 Vietnam has the world's largest cave.
+
 +++++++++++++++++++ Rest of the Wrold ++++++++++++++++
 ----- GreenLand [pl]
 Greenland is home to the largest National Park in the world
-
 ---- New Zealand [eh]
 You can pay with hobbit money.
+---- South Africa [lb]
+South Africa is the largest producer of macadamia nuts in the world
+----- Madagascar [SK]
+Well known for its vast Lemur population. 
+
+++++++++++++++++++++++    Asia    ++++++++++++++++++++
+------ China [pl]
+The Chinese invented ice cream over 4, 000 years ago by mixing milk with a rice mixture. 
+---- Philippines [lb]
+Philippines contains the longest underground river in the world
+------ Japan [SK]
+Is the main producer of anime. 
+
++++++++++++++++++++ Rest of the Wrold ++++++++++++++++
+----- GreenLand [pl]
+Greenland is home to the largest National Park in the world
+---- Vatican [lb]
+It is the smallest country in the world
+----- Australia [SK]
+Is home to the most dangerous jellyfish, the box jellyfish.
+
